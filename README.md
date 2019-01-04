@@ -46,7 +46,12 @@ Journal Name | Impact Factor
 IEEE Transactions on Image Processing [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83) | 5.071
 Pattern Recognition (Elsevier) [Link](https://www.journals.elsevier.com/pattern-recognition) | 3.962
 
-
+## Data Mining
+### Conferences
+Conference Name | H5-index
+------------ | -------------
+SIGKDD: ACM International Conference on Knowledge Discovery and Data Mining [Link](https://www.kdd.org/kdd2019)	| 77
+WSDM: ACM International Conference on Web Search and Data Mining [Link]http://www.wsdm-conference.org/2019/ | 55
 
 
 
