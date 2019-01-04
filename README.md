@@ -23,7 +23,7 @@ Conference Name | H5-index
 ------------ | -------------
 CVPR : IEEE Conference on Computer Vision and Pattern Recognition [Link](http://cvpr2019.thecvf.com/) | 188
 ICCV : IEEE International Conference on Computer Vision [Link](http://iccv2019.thecvf.com/)| 124
-ECCV : European Conference on Computer Vision [Link] (https://link.springer.com/conference/eccv) | 104
+ECCV : European Conference on Computer Vision [Link](https://link.springer.com/conference/eccv) | 104
 BMVC : British Machine Vision Conference [Link] (https://bmvc2019.org/) | 42
 ICIP : IEEE International Conference on Image Processing [Link](http://2019.ieeeicip.org/) | 41	
 ICPR : International Conference on Pattern Recognition [Link](http://www.icpr2018.net/) | 34
@@ -33,7 +33,7 @@ Journal Name | Impact Factor
 IEEE Transactions on Image Processing [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83) | 5.071
 Pattern Recognition (Elsevier) [Link](https://www.journals.elsevier.com/pattern-recognition) | 3.962
 
-\
+
 
 
 
