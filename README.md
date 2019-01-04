@@ -6,7 +6,7 @@ We have curated a list of top conferences, domain-wise, for research enthusiasts
 Conference Name | H5-index
 ------------ | -------------
 NIPS : Neural Information Processing Systems (NIPS) [Link](https://nips.cc/) | 134
-International Conference on Machine Learning (ICML) [Link](https://icml.cc/)	 | 113
+ICML : International Conference on Machine Learning [Link](https://icml.cc/)	 | 113
 
 ### Journals
 Journal Name | Impact Factor
