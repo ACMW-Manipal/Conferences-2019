@@ -1,14 +1,14 @@
 # Conferences-2019
 We have curated a list of top conferences, domain-wise, for research enthusiasts at Manipal. Watch out for the deadlines! 
 
-##Machine Learning, Artificial Intelligence & Neural Networks 
-###Conferences
+## Machine Learning, Artificial Intelligence & Neural Networks 
+### Conferences
 Conference Name | H5-index
 ------------ | -------------
 NIPS : Neural Information Processing Systems (NIPS) [Link] (https://nips.cc/) | 134
 International Conference on Machine Learning (ICML) [Link] (https://icml.cc/)	 | 113
 
-###Journals
+### Journals
 Journal Name | Impact Factor
 ------------ | -------------
 PAMI: IEEE Transactions on Pattern Analysis and Machine Intelligence [Link] (https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) | 9.455
@@ -16,9 +16,9 @@ IEEE Transactions on Fuzzy Systems [Link] (https://ieeexplore.ieee.org/xpl/Recen
 IEEE Transactions on Neural Networks and Learning Systems [Link] (https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)	 | 7.982
                                                                                                                        
 
-###Natural Language Processing
+### Natural Language Processing
 
-###Computer Vision & Pattern Recognition
+### Computer Vision & Pattern Recognition
 Conference Name | H5-index
 ------------ | -------------
 CVPR : IEEE Conference on Computer Vision and Pattern Recognition [Link] (http://cvpr2019.thecvf.com/) | 188
