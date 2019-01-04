@@ -16,9 +16,21 @@ IEEE Transactions on Fuzzy Systems [Link](https://ieeexplore.ieee.org/xpl/Recent
 IEEE Transactions on Neural Networks and Learning Systems [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)	 | 7.982
                                                                                                                        
 
-## Natural Language Processing
+## Natural Language Processing & Speech Processing
+### Conferences
+Conference Name | H5-index
+------------ | -------------
+EMNLP : Empirical Methods in Natural Language Processing [Link](https://www.emnlp-ijcnlp2019.org/) | 76
+ICASSP: International Conference on Acoustics, Speech, and Signal Processing [Link](https://2019.ieeeicassp.org/) | 79
+ACL : Meeting of the Association for Computational Linguistics (ACL) [Link](http://www.acl2019.org/EN/index.xhtml) | 67
+Interspeech [Link](https://www.interspeech2019.org/) | 56
+NAACL : Conference of the North American Chapter of the Association for Computational Linguistics [Link](https://naacl2019.org/) | 47
+SemEval : International Workshop on Semantic Evaluation [Link](http://alt.qcri.org/semeval2019/) | 45
+COLING : International Conference on Computational Linguistics [Link](http://coling2018.org/) | 31	
+
 
 ## Computer Vision & Pattern Recognition
+### Conferences
 Conference Name | H5-index
 ------------ | -------------
 CVPR : IEEE Conference on Computer Vision and Pattern Recognition [Link](http://cvpr2019.thecvf.com/) | 188
