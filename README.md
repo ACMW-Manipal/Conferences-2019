@@ -39,7 +39,8 @@ ECCV : European Conference on Computer Vision [Link](https://link.springer.com/c
 BMVC : British Machine Vision Conference [Link](https://bmvc2019.org/) | 42
 ICIP : IEEE International Conference on Image Processing [Link](http://2019.ieeeicip.org/) | 41	
 ICPR : International Conference on Pattern Recognition [Link](http://www.icpr2018.net/) | 34
- 
+
+### Journals
 Journal Name | Impact Factor
 ------------ | -------------
 IEEE Transactions on Image Processing [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83) | 5.071
