@@ -1,5 +1,6 @@
 # Conferences-2019
-We have curated a list of top conferences, for research enthusiasts at Manipal. Watch out for the deadlines! 
+A list of top conferences and journals for research enthusiasts at Manipal. Watch out for the deadlines!
+By no means is this list exhaustive.
 Note: If you wish to contribute to the repository, follow the steps in [this article](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940).
 
 ## Machine Learning, Artificial Intelligence & Neural Networks 
@@ -15,10 +16,12 @@ Journal Name | Impact Factor
 PAMI: IEEE Transactions on Pattern Analysis and Machine Intelligence [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) | 9.455
 IEEE Transactions on Fuzzy Systems [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91) | 8.415
 IEEE Transactions on Neural Networks and Learning Systems [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)	 | 7.982
-Applied Soft Computing (Elsevier) [Link] (https://www.journals.elsevier.com/applied-soft-computing/) | 3.907
-Artificial Intelligence (Elsevier) [Link] (https://www.journals.elsevier.com/artificial-intelligence) | 3.034
+Applied Soft Computing (Elsevier) [Link](https://www.journals.elsevier.com/applied-soft-computing/) | 3.907
+Artificial Intelligence (Elsevier) [Link](https://www.journals.elsevier.com/artificial-intelligence) | 3.034
 Engineering Applications of Artificial Intelligence (Elsevier) [Link](https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence) | 2.819
+Journal of Machine Learning Research [Link](http://www.jmlr.org/) | 2.281
 IEEE Transactions on Computational Intelligence and AI in Games [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4804728)|0.897
+
                                                                                                           
 
 ## Natural Language Processing & Speech Processing
@@ -50,6 +53,8 @@ Journal Name | Impact Factor
 ------------ | -------------
 IEEE Transactions on Image Processing [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83) | 5.071
 Pattern Recognition (Elsevier) [Link](https://www.journals.elsevier.com/pattern-recognition) | 3.962
+Pattern Recognition Letters (Elsevier) [Link](https://www.journals.elsevier.com/pattern-recognition-letters) | 1.952
+ 
 
 ## Data Mining
 ### Conferences
@@ -57,13 +62,25 @@ Conference Name | H5-index
 ------------ | -------------
 SIGKDD: ACM International Conference on Knowledge Discovery and Data Mining [Link](https://www.kdd.org/kdd2019)	| 77
 WSDM: ACM International Conference on Web Search and Data Mining [Link](http://www.wsdm-conference.org/2019/) | 55
+Knowledge and Information Systems	[Link](https://link.springer.com/journal/10115)	| 37
+International Conference on Data Mining	 [Link](http://www.data-mining-forum.de/) | 37
 
 ### Journals
 Journal Name | Impact Factor
 ------------ | -------------
 IEEE Transactions on Knowledge and Data Engineering [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69) | 2.775
+Data Mining and Knowledge Discovery [Link](https://link.springer.com/journal/10618)
 
 
-
-
+## Computer Security & Cryptography
+### Conferences
+Conference Name | H5-index
+------------ | -------------
+ACM Symposium on Computer and Communications Security	[Link](https://www.sigsac.org/ccs/CCS2018/papers/) | 77
+IEEE Symposium on Security and Privacy	[Link](https://www.ieee-security.org/TC/SP2019/) | 74
+USENIX Security Symposium [Link](https://www.usenix.org/conference/usenixsecurity19) | 70 
+### Journals
+Journal Name | Impact Factor
+------------ | -------------
+IEEE Transactions on Information Forensics and Security [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206) | 5.824
 
