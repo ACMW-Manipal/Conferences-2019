@@ -1,6 +1,6 @@
 # Conferences-2019
 We have curated a list of top conferences, for research enthusiasts at Manipal. Watch out for the deadlines! 
-Note: If you wish to contribute to the repository, follow the steps in [this article] (https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940).
+Note: If you wish to contribute to the repository, follow the steps in [this article](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940).
 
 ## Machine Learning, Artificial Intelligence & Neural Networks 
 ### Conferences
