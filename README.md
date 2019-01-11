@@ -86,7 +86,6 @@ Journal Name | Impact Factor
 IEEE Transactions on Information Forensics and Security [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206) | 5.824
 IEEE Transactions on Dependable and Secure Computing [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858) | 4.41
 Computers & Security (Elsevier) [Link](https://www.journals.elsevier.com/computers-and-security) | 2.650
-
 International Journal of Information Security [Link](https://www.springer.com/computer/security+and+cryptology/journal/10207) | 1.658
 
 
