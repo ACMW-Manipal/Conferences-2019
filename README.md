@@ -17,7 +17,7 @@ IEEE Transactions on Fuzzy Systems [Link](https://ieeexplore.ieee.org/xpl/Recent
 IEEE Transactions on Neural Networks and Learning Systems [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)	 | 7.982
 Applied Soft Computing (Elsevier) [Link] (https://www.journals.elsevier.com/applied-soft-computing/) | 3.907
 Artificial Intelligence (Elsevier) [Link] (https://www.journals.elsevier.com/artificial-intelligence) | 3.034
-Engineering Applications of Artificial Intelligence (Elsevier) [Link] | 2.819
+Engineering Applications of Artificial Intelligence (Elsevier) [Link](https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence) | 2.819
 IEEE Transactions on Computational Intelligence and AI in Games [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4804728)|0.897
                                                                                                           
 
