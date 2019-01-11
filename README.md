@@ -69,7 +69,7 @@ International Conference on Data Mining	 [Link](http://www.data-mining-forum.de/
 Journal Name | Impact Factor
 ------------ | -------------
 IEEE Transactions on Knowledge and Data Engineering [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69) | 2.775
-Data Mining and Knowledge Discovery [Link](https://link.springer.com/journal/10618)
+Data Mining and Knowledge Discovery [Link](https://link.springer.com/journal/10618) | 3.16
 
 
 ## Computer Security & Cryptography
@@ -79,8 +79,16 @@ Conference Name | H5-index
 ACM Symposium on Computer and Communications Security	[Link](https://www.sigsac.org/ccs/CCS2018/papers/) | 77
 IEEE Symposium on Security and Privacy	[Link](https://www.ieee-security.org/TC/SP2019/) | 74
 USENIX Security Symposium [Link](https://www.usenix.org/conference/usenixsecurity19) | 70 
+International Cryptology Conference (CRYPTO) [Link](https://crypto.iacr.org/2019/) | 62	
 ### Journals
 Journal Name | Impact Factor
 ------------ | -------------
 IEEE Transactions on Information Forensics and Security [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206) | 5.824
+IEEE Transactions on Dependable and Secure Computing [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858) | 4.41
+Computers & Security (Elsevier) [Link](https://www.journals.elsevier.com/computers-and-security) | 2.650
+
+International Journal of Information Security [Link](https://www.springer.com/computer/security+and+cryptology/journal/10207) | 1.658
+
+
+
 
